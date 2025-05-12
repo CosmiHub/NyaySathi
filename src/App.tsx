@@ -11,6 +11,9 @@ import Templates from "./pages/Templates";
 import Lawyers from "./pages/Lawyers";
 import NotFound from "./pages/NotFound";
 
+// Adding console logs to help debug the Shield component issue
+console.log("App.tsx loaded");
+
 const queryClient = new QueryClient();
 
 const App = () => (
