@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
-import { FileText, User, Search } from "lucide-react";
+import { FileText, User, Search, Shield } from "lucide-react";
 
 const Hero = () => {
   return (
