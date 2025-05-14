@@ -30,7 +30,7 @@ const features = [
     icon: <Shield className="h-12 w-12" />,
     title: "Know Your Rights",
     description: "Learn about your legal rights in different situations like police custody, road rage, etc.",
-    link: "/rights",
+    link: "/know-your-rights",
     color: "text-red-600"
   },
   {
